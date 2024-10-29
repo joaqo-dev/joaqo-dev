@@ -5,10 +5,10 @@
 ***About me***
 
 I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
-	📚	I am in constant learning.
-	💻	Developing personal projects.
-	🏎️	Outside of technology, I do photography, I’m passionate about cars, I play video games, and I listen to music.
-	📫	Reach out to me at: <a href="joaquincm30@gmail.com">joaquincm30@gmail.com</a>
+	- 📚	I am in constant learning.
+	- 💻	Developing personal projects.
+	- 🏎️	Outside of technology, I do photography, I’m passionate about cars, I play video games, and I listen to music.
+	- 📫	Reach out to me at: <a href="joaquincm30@gmail.com">joaquincm30@gmail.com</a>
 
 ## My Skills Include
 
