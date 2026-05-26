@@ -12,7 +12,7 @@
 - 📫 Reach out to me at: <a href="joaquincm30@gmail.com">joaquincm30@gmail.com</a>
 
 ## My Skills Include
-<h4> Lenguajes </h4>
+<h4> languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white">
